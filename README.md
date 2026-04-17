@@ -1,4 +1,4 @@
-# autogluon/chronos-bolt-small - Private, Uncensored AI for Real Creators and Devs
+# autogluon/chronos-bolt-small  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
